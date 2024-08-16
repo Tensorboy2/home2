@@ -1,15 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import UnderConstruction from './UnderConstruction';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        Under construction.
-      </header>
+    <div>
+      <UnderConstruction />
     </div>
   );
-}
+};
 
 export default App;
