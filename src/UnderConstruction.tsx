@@ -25,7 +25,7 @@ const workExperience = [
     company: 'Institute for Energy Technology',
     role: 'Summer Research Assistant',
     years: '2025 - 2025',
-    description: 'Machine learning on satellite data',
+    description: 'Machine learning on satellite data.',
   },
   {
     company: 'Skatteetaten',
@@ -37,7 +37,7 @@ const workExperience = [
     company: 'University of Oslo',
     role: 'Summer Research Assistant',
     years: '2023 - 2023',
-    description: 'Experimental research on porous media',
+    description: 'Experimental research on porous media.',
   },
   {
     company: 'Tangen Uteanlegg AS',
@@ -47,7 +47,7 @@ const workExperience = [
   },
   {
     company: 'Sulland Mo',
-    role: 'Care Preparation',
+    role: 'Car Preparation',
     years: '2019 - 2020',
     description: 'Refurbishing and preparing vehicles for sale, including cleaning and minor repairs. Additianly preparing new vehicles for delivery.',
   },
@@ -55,15 +55,14 @@ const workExperience = [
 ];
 
 const skills = [
-  'JavaScript',
-  'React',
-  'TypeScript',
   'Python',
   'PyTorch',
   'Java',
   'OpenMP',
   'MPI',
   'C/C++',
+  'TypeScript/JavaScript',
+  'React',
   // Add more skills as needed
 ];
 
